@@ -58,38 +58,4 @@
 * [FFmpeg](https://www.gyan.dev/ffmpeg/builds/) (for sticker command)
 * [Libwebp](https://developers.google.com/speed/webp/download) (for sticker wm)
 
-## For Termux
-```bash
-termux-setup-storage
-apt update && apt upgrade
-pkg install nodejs
-pkg install git 
-pkg install ffmpeg
-pkg install libwebp 
-pkg install bash
-git clone https://github.com/DhenxsCode/Self-Bot.git
-cd CodeV1
-npm i
-npm start
-```
-## For Windows
-```bash
-git clone https://github.com/Dhenxs-Code/Base-DhenxsCode.git
-cd Base-DhenxsCode
-npm install
-npm start
-```
-## For VPS
-```bash
-apt install nodejs 
-apt install git 
-apt apt install ffmpeg 
-apt apt install libwebp 
-apt apt install imagemagick
-apt install bash
-git clone https://github.com/Dhenxs-Code/Base-DhenxsCode.git
-cd Base-DhenxsCode
-npm install
-npm start
-```
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhenxsCode&theme=radical)

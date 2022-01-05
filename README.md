@@ -60,6 +60,6 @@ BOT WHATSAPP
 
 ### Repo Stats 🔭
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=Dhenxscode&repo=Self-Bot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Dhenxscode&repo=api-mirip-lolhuman2&theme=nightowl)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Dhenxscode&repo=tess&theme=nightowl)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhenxsCode&theme=radical)

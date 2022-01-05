@@ -13,6 +13,9 @@
 </p>
 
 --------
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Dhenxscode&repo=Self-Bot&theme=dark)
+
+
 
 # ```BASE SC DHENXSCODE```
 <p align="center">
@@ -56,10 +59,5 @@ BOT WHATSAPP
 </p>
 
  [`YouTube DhenxsCode`](https://youtu.be/vZsK_K0xTVI)
-
-
-### Repo Stats 🔭
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Dhenxscode&repo=Self-Bot&theme=dark)
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Dhenxscode&repo=tess&theme=nightowl)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhenxsCode&theme=radical)

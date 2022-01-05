@@ -57,4 +57,9 @@ BOT WHATSAPP
 
  [`YouTube DhenxsCode`](https://youtu.be/vZsK_K0xTVI)
 
+
+### Repo Stats 🔭
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Dhenxscode&repo=Self-Bot&theme=dark)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Dhenxscode&repo=api-mirip-lolhuman2&theme=nightowl)
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhenxsCode&theme=radical)

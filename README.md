@@ -29,15 +29,6 @@
     </p>
 
 -------
-
-## ```FOLLOW ALL SOSIALMEDIA ME```
-<p align="center">
-<a href="https://instagram.com/DhenxsCode"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-<a href="https://wa.me/6285697662826"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-<a href="https://youtu.be/vZsK_K0xTVI"><img src="https://img.shields.io/badge/YouTube DhenxsCode-ff0000?style=for-the-badge&logo=youtube&logoColor=ff000000&link=https://youtu.be/vZsK_K0xTVI" /><br>
-<a href="https://tiktok.com/@_DhenxsCode"><img src="https://img.shields.io/badge/Tiktok Dhenxs-Code-black?style=for-the-badge&logo=tiktok&logoColor=ff000000&link=https://tiktok.com/@DhenxsCode" /></a>
-</p>
-
 ## ```DHENXS .JSON```
 
 - Owner number [Here](https://github.com/Dhenxscode/OBOYBOTZ/blob/master/dhenxs.js#L4)
@@ -48,14 +39,22 @@
 
 - [`DANA`](085697662826)
 
-## ```GROUP DhenxsCode```
-
-- [`GROUP WA`](https://chat.whatsapp.com/EOEpRuL7YvDCmbbO7yC9Pk)
-
 # Requirements
 * [Node.js](https://nodejs.org/en/)
 * [Git](https://git-scm.com/downloads)
 * [FFmpeg](https://www.gyan.dev/ffmpeg/builds/) (for sticker command)
 * [Libwebp](https://developers.google.com/speed/webp/download) (for sticker wm)
+
+## Contact! Whatsapp Pribadi
+<p align="center">
+ <a href="https://wa.me/6285697662826"><img alt="WhatsApp Personal Chat" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+</p>
+
+BOT WHATSAPP
+<p align="center">
+ <a href="https://chat.whatsapp.com/EOEpRuL7YvDCmbbO7yC9Pk"><img alt="WhatsApp Group" src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=black"/></a>
+</p>
+
+ [`YouTube DhenxsCode`](https://youtu.be/vZsK_K0xTVI)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhenxsCode&theme=radical)

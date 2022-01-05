@@ -94,4 +94,4 @@ cd Base-DhenxsCode
 npm install
 npm start
 ```
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhenxsCode&theme=radical)

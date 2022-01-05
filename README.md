@@ -13,10 +13,6 @@
 </p>
 
 --------
-![github card](https://github-readme-stats.vercel.app/api/pin/?username=Dhenxscode&repo=Self-Bot&theme=dark)
-
-
-
 # ```BASE SC DHENXSCODE```
 <p align="center">
 <a href="https://github.com/Dhenxs-Code/followers"><img title="Followers" src="https://img.shields.io/github/followers/Dhenxs-Code?color=red&style=flat-square"></a>
@@ -61,3 +57,4 @@ BOT WHATSAPP
  [`YouTube DhenxsCode`](https://youtu.be/vZsK_K0xTVI)
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=DhenxsCode&theme=radical)
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=Dhenxscode&repo=Self-Bot&theme=dark)

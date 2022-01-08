@@ -67,6 +67,6 @@ BOT WHATSAPP
 <details>
     <summary>&#127942 <b>GitHub Activity</b></summary><br/>
 
-![Metrics](https://metrics.lecoq.io/CyclenY?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FDepok)
+![Metrics](https://metrics.lecoq.io/DhenxCode?[Metrics](https://metrics.lecoq.io/CyclenY?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Asia%2FDepok)
 
 </details>
